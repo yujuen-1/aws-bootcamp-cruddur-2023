@@ -6,7 +6,9 @@
 ### [Summary: screenshot].(journal/assets)
 
 Architectural diagrams, conceptual and logical designs
+
 Create new IAM user with admin privileges
+
 Generate AWS credentials / Create access keys for admin user
 -Turned on MFA for the IAM user and root user
 -Use Cloudshell
