@@ -24,5 +24,5 @@
 
 Budget alram created for $1. 
 
-![AWS Budget].(https://github.com/yujuen-1/aws-bootcamp-cruddur-2023/blob/main/journal/assets/AWS%20Budget.JPG)
+![AWS Budget](https://github.com/yujuen-1/aws-bootcamp-cruddur-2023/blob/main/journal/assets/AWS%20Budget.JPG)
 
