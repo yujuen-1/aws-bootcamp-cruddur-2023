@@ -2,7 +2,7 @@
 
 ## Required Homework/Tasks
 
-### Summary: [screenshot].(journal/assets)
+### [Summary: screenshot].(journal/assets)
 
 Architectural diagrams, conceptual and logical designs
 Under my pre-existing root account I created a new organization group
