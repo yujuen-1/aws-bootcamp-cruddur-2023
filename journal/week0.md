@@ -1,6 +1,7 @@
 # Week 0 — Billing and Architecture
 
 ## Required Homework/Tasks
+[Summary: Screenshot].(journal/assets)
 
 ### [Summary: screenshot].(journal/assets)
 
