@@ -26,3 +26,6 @@ Budget alram created for $1.
 
 ![AWS Budget](https://github.com/yujuen-1/aws-bootcamp-cruddur-2023/blob/main/journal/assets/AWS%20Budget.JPG)
 
+###Recreate Logical Architecture Design 
+
+![Logical Architecture Design](https://github.com/yujuen-1/aws-bootcamp-cruddur-2023/blob/main/journal/assets/logical-architectural-recreation-diagram.JPG)
