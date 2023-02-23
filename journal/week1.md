@@ -3,7 +3,7 @@
 ## Summary of Homework
 
 ### Containerize Application (Dockerfiles, Docker Compose)
-![image of docker compose] (https://github.com/yujuen-1/aws-bootcamp-cruddur-2023/blob/main/journal/assets/compose%20up%20docker.JPG)
+![image of docker compose](https://github.com/yujuen-1/aws-bootcamp-cruddur-2023/blob/main/journal/assets/compose%20up%20docker.JPG)
 
 ### Document the Notification Endpoint for the OpenAI Document
 ![Notification Endpoint for the OpenAI](https://github.com/yujuen-1/aws-bootcamp-cruddur-2023/blob/main/journal/assets/open%20API.JPG)
