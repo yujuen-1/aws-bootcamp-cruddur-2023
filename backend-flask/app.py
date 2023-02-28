@@ -14,6 +14,10 @@ from services.messages import *
 from services.create_message import *
 from services.show_activity import *
 
+#X-RAY-------
+from aws_xray_sdk.core import xray_recorder
+from aws_xray_sdk.ext.flask.middleware import XRayMiddleware
+
 #HoneyComb-----
 from opentelemetry import trace
 from opentelemetry.instrumentation.flask import FlaskInstrumentor
@@ -32,8 +36,14 @@ tracer = trace.get_tracer(__name__)
 
 app = Flask(__name__)
 
+#X-RAY----
+xray_url = os.getenv("AWS_XRAY_URL")
+xray_recorder.configure(service='Cruddur', dynamic_naming=xray_url)
+XRayMiddleware(app, xray_recorder)
+
 # HoneyComb-----
 # Initialize automatic instrumentation with Flask
+
 FlaskInstrumentor().instrument_app(app)
 RequestsInstrumentor().instrument()
 
