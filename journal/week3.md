@@ -14,7 +14,7 @@
 ![Signup Page](https://github.com/yujuen-1/aws-bootcamp-cruddur-2023/blob/main/journal/assets/week3-signup%20page.JPG)
 
 ### Cognito JWT Verification
-![JWT](https://github.com/yujuen-1/aws-bootcamp-cruddur-2023/blob/main/journal/assets/week3-jwt%20authenticated.JPGG)
+![JWT](https://github.com/yujuen-1/aws-bootcamp-cruddur-2023/blob/main/journal/assets/week3-jwt%20authenticated.JPG)
 
 ### Implement Custom Recovery Page
 ![Recovery Page](https://github.com/yujuen-1/aws-bootcamp-cruddur-2023/blob/main/journal/assets/week3-recoverypage.JPG)
